@@ -8,7 +8,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Bear Skin](https://www.drupal.org/project/bear_skin)
 - [Emulsify](https://www.drupal.org/project/emulsify)
 - [Gesso](https://www.drupal.org/project/gesso)
-- [Pattern Lab Starter](https://github.com/phase2/pattern-lab-starter)
+- [Particle](https://github.com/phase2/particle)
 - [Shila theme](https://github.com/aleksip/shila-drupal-theme)
 - [Zen](https://www.drupal.org/project/zen)
 
