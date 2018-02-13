@@ -18,6 +18,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Component Libraries](https://www.drupal.org/project/components)
 - [Paragraphs](https://www.drupal.org/project/paragraphs)
 - [UI Patterns](https://www.drupal.org/project/ui_patterns)
+- [Unified Twig Extensions](https://github.com/drupal-pattern-lab/unified-twig-extensions)
 
 
 ## Pattern Lab and plugins
