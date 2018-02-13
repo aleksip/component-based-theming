@@ -30,6 +30,12 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Twig Namespaces Plugin](https://github.com/EvanLovely/plugin-twig-namespaces)
 
 
+## Twig extensions
+
+- [add-attributes-twig-extension](https://github.com/drupal-pattern-lab/add-attributes-twig-extension)
+- [bem-twig-extension](https://github.com/drupal-pattern-lab/bem-twig-extension)
+
+
 ## Blog posts, articles, webinars
 
 - [Using Pattern Lab in Drupal 7 theme development](https://www.aleksip.net/using-pattern-lab-in-drupal-7-theme-development)
