@@ -38,6 +38,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Accommodating Drupal In Your Components](https://www.mediacurrent.com/blog/accommodating-drupal-your-components)
+  - by Eric Huffman, 15 February 2018
 - [Using Pattern Lab in Drupal 7 theme development](https://www.aleksip.net/using-pattern-lab-in-drupal-7-theme-development)
   - by Aleksi Peebles, 5 February 2018
 - [Front end journey into Drupal + Pattern Lab](https://hackernoon.com/front-end-journey-into-drupal-pattern-lab-4db02e617fb4)
