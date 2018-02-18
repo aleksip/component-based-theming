@@ -86,6 +86,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Florida DrupalCamp 2018
+  - [Implementing an Enterprise Design System the Red Hat Way](https://www.fldrupal.camp/sessions/design-theming-front-end-development/implementing-enterprise-design-system-red-hat-way)
+    - by Derek Reese
 - Pacific Northwest Drupal Summit 2018
   - [Webpack, ES6, Pattern Lab, and Drupal 8: Hands-on with Design-System-First Development](https://pnwdrupalsummit.org/2018/sessions/webpack-es6-pattern-lab-and-drupal-8-hands-design-system-first-development)
     - by Christopher Bloom
