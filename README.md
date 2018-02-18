@@ -122,6 +122,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - DrupalCamp LA 2016:
 	- [Component-driven Drupal theming](https://www.mediacurrent.com/multimedia/video/drupalcamp-la-2016-component-driven-drupal-theming)
 		- by Mario Hernandez
+- DrupalCamp Asheville 2016
+  - [Building Drupal Sites with Components](https://www.drupalasheville.com/2016/session/building-drupal-sites-components) ([Slides](https://www.slideshare.net/DerekReese1/building-drupal-sites-with-components), [YouTube](https://www.youtube.com/watch?v=SJVGNpOovJw))
+    - by Derek Reese
 - Devsigner 2016:
 	- [Integrating Pattern Lab with a CMS Build](http://www.evanlovely.com/notes/pattern-lab/integrating-pattern-lab-into-drupal-workshop.pdf)
 		- by Evan Lovely
