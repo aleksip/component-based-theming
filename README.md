@@ -44,6 +44,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
   - by Aleksi Peebles, 5 February 2018
 - [Front end journey into Drupal + Pattern Lab](https://hackernoon.com/front-end-journey-into-drupal-pattern-lab-4db02e617fb4)
   - by Mikhail Romanov, 12 January 2018
+- [Field Notes: UI Patterns Module](http://www.hook42.com/blog/field-notes-ui-patterns-module)
+  - by Ryan Bateman, 27 December 2017
 - [A first taste of Drupal theming using Pattern Lab](https://weknowinc.com/blog/drupal-theming-using-pattern-lab)
 	- by Omar Aguirre, 26 December 2017
 - [Emulsify 2: Building a Full Site Header in Drupal](https://www.fourkitchens.com/blog/development/emulsify-2-building-full-site-header-drupal/)
