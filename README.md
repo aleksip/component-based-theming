@@ -94,6 +94,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - Pacific Northwest Drupal Summit 2018
   - [Webpack, ES6, Pattern Lab, and Drupal 8: Hands-on with Design-System-First Development](https://pnwdrupalsummit.org/2018/sessions/webpack-es6-pattern-lab-and-drupal-8-hands-design-system-first-development)
     - by Christopher Bloom
+  - [Component-Based Design: Step aside Drupal, we’ve got this (er, maybe not?)](https://pnwdrupalsummit.org/2018/sessions/component-based-design-step-aside-drupal-we%E2%80%99ve-got-er-maybe-not)
+    - by Eric Huffman
 - New England DrupalCamp 2017:
 	- [Component Based Theming With UI Patterns](https://nedcamp.org/new-england-drupal-camp/sessions/component-based-theming-ui-patterns) ([YouTube](https://www.youtube.com/watch?v=-0m-u_Bmzxg))
 		- by Brian Perry
