@@ -50,6 +50,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 	- by Omar Aguirre, 26 December 2017
 - [Emulsify 2: Building a Full Site Header in Drupal](https://www.fourkitchens.com/blog/development/emulsify-2-building-full-site-header-drupal/)
 	- by Evan Willhite, 20 December 2017
+- [Exploring simplicity in Drupal design components](http://nerdstein.net/blog/exploring-simplicity-drupal-design-components)
+  - by Adam Bergstein, 2 October 2017
 - [Component Based Theming at DrupalCon Baltimore](https://www.hs2solutions.com/blog/component-based-theming-drupalcon-baltimore)
 	- by Brian Perry, 9 May 2017
 - [Component Driven Development with Emulsify](https://www.youtube.com/watch?v=mokJpc7J1rM)
