@@ -92,6 +92,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- MidCamp 2018
+  - [Component-based Drupal](https://www.midcamp.org/topic/component-based-drupal)
+    - by Adam Bergstein and Brian Perry
 - Florida DrupalCamp 2018
   - [Implementing an Enterprise Design System the Red Hat Way](https://www.fldrupal.camp/sessions/design-theming-front-end-development/implementing-enterprise-design-system-red-hat-way)
     - by Derek Reese
