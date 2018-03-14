@@ -46,6 +46,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
   - by Aleksi Peebles, 5 February 2018
 - [Front end journey into Drupal + Pattern Lab](https://hackernoon.com/front-end-journey-into-drupal-pattern-lab-4db02e617fb4)
   - by Mikhail Romanov, 12 January 2018
+- [Integrating a Drupal Text with Image Paragraph Bundle with Patternlab](https://mark.ie/blog/web-development/integrating-drupal-text-image-paragraph-bundle-patternlab)
+  - by Mark Conroy, 30 December 2017
 - [Field Notes: UI Patterns Module](http://www.hook42.com/blog/field-notes-ui-patterns-module)
   - by Ryan Bateman, 27 December 2017
 - [A first taste of Drupal theming using Pattern Lab](https://weknowinc.com/blog/drupal-theming-using-pattern-lab)
