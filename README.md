@@ -50,6 +50,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
   - by Ryan Bateman, 27 December 2017
 - [A first taste of Drupal theming using Pattern Lab](https://weknowinc.com/blog/drupal-theming-using-pattern-lab)
   - by Omar Aguirre, 26 December 2017
+- [Integrating a Simple Drupal Text Paragraph Bundle with Patternlab](https://mark.ie/blog/web-development/integrating-simple-drupal-text-paragraph-bundle-patternlab)
+  - by Mark Conroy, 21 December 2017
 - [Emulsify 2: Building a Full Site Header in Drupal](https://www.fourkitchens.com/blog/development/emulsify-2-building-full-site-header-drupal/)
   - by Evan Willhite, 20 December 2017
 - [Exploring simplicity in Drupal design components](http://nerdstein.net/blog/exploring-simplicity-drupal-design-components)
