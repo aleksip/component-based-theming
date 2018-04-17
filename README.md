@@ -38,6 +38,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Adding {{ attributes }} to a Drupal PatternLab Theme](https://mark.ie/blog/web-development/adding-attributes-drupal-patternlab-theme)
+  - by Mark Conroy, 16 April 2018
 - [Achieving Clarity in Component-based Best Practices](http://nerdstein.net/blog/achieving-clarity-component-based-best-practices)
   - by Adam Bergstein, 2 April 2018
 - [Componentizing Drupal Front End using Pattern Lab](https://valuebound.com/resources/blog/componentizing-drupal-front-end-using-pattern-lab)
