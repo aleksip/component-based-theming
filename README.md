@@ -5,9 +5,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Drupal themes
 
-- [Bear Skin](https://www.drupal.org/project/bear_skin)
-- [Emulsify](https://www.drupal.org/project/emulsify)
-- [Gesso](https://www.drupal.org/project/gesso)
+- [Bear Skin](https://www.drupal.org/project/bear_skin) ([GitHub](https://github.com/zivtech/bear_skin))
+- [Emulsify](https://www.drupal.org/project/emulsify) ([GitHub](https://github.com/fourkitchens/emulsify))
+- [Gesso](https://www.drupal.org/project/gesso) ([GitHub](https://github.com/forumone/gesso))
 - [Particle](https://github.com/phase2/particle)
 - [Shila theme](https://github.com/aleksip/shila-drupal-theme)
 - [Zen](https://www.drupal.org/project/zen)
