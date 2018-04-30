@@ -100,6 +100,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Drupaldelphia 2018
+  - [Can we figure this Drupal Component thing out already?](https://drupaldelphia.org/session/can-we-figure-drupal-component-thing-out-already) ([YouTube](https://www.youtube.com/watch?v=-XMnGvvPVeg))
+    - by Adam Bergstein
 - MidCamp 2018
   - [Component-based Drupal](https://www.midcamp.org/topic/component-based-drupal)
     - by Adam Bergstein and Brian Perry
