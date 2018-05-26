@@ -123,6 +123,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
   - [Introducing the UI Patterns module: use atomic UI components everywhere in Drupal 8](https://www.youtube.com/watch?v=6BdyXYkY3Wg)
     - by Antonio De Marco
 - DrupalCon Baltimore 2017:
+  - [Atomic Design in Drupal 8: Isolating frontend workflow with Pattern Lab!](https://events.drupal.org/baltimore2017/sessions/atomic-design-drupal-8-isolating-your-frontend-workflow-pattern-lab)
+    - by Anthony Simone
   - [Pinterest’s Component Based Design: Breaking down silos, saving time, and empowering content editors](https://events.drupal.org/baltimore2017/sessions/pinterest%E2%80%99s-component-based-design-breaking-down-silos-saving-time-and)
     - by Evan Lovely and Grant Gaudet
 - MidCamp 2017:
