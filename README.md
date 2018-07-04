@@ -103,6 +103,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Design 4 Drupal 2018
+  - [Next Gen Design Systems with Pattern Lab, Twig, and Web Components](http://design4drupal.org/sessions/theming/next-gen-design-systems-pattern-lab-twig-and-web-components) ([YouTube](https://www.youtube.com/watch?v=NhjEbuuKn1Y))
+    - by Salem Ghoweri
 - Texas Camp 2018
   - [Component Based Theming With UI Patterns](https://2018.texascamp.org/sessions/component-based-theming-with-ui-patterns) ([Slides](https://www.dropbox.com/s/b6yjxh5cwgbfctq/component_theming_ui_patterns.pdf))
     - by Brian Perry
