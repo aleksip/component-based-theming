@@ -102,6 +102,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Texas Camp 2018
+  - [Component Based Theming With UI Patterns](https://2018.texascamp.org/sessions/component-based-theming-with-ui-patterns) ([Slides](https://www.dropbox.com/s/b6yjxh5cwgbfctq/component_theming_ui_patterns.pdf))
+    - by Brian Perry
 - Drupaldelphia 2018
   - [Can we figure this Drupal Component thing out already?](https://drupaldelphia.org/session/can-we-figure-drupal-component-thing-out-already) ([YouTube](https://www.youtube.com/watch?v=-XMnGvvPVeg))
     - by Adam Bergstein
