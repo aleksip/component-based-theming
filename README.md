@@ -103,6 +103,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Drupal Developer Days Lisbon 2018
+  - [Component-based Theming with Pattern Lab and Twig](https://lisbon2018.drupaldays.org/sessions/component-based-theming-pattern-lab-and-twig) ([Slides](http://Bit.ly/pl-twig-ddd-lisbon))
+    - by Adam Juran
 - Design 4 Drupal 2018
   - [Next Gen Design Systems with Pattern Lab, Twig, and Web Components](http://design4drupal.org/sessions/theming/next-gen-design-systems-pattern-lab-twig-and-web-components) ([YouTube](https://www.youtube.com/watch?v=NhjEbuuKn1Y))
     - by Salem Ghoweri
