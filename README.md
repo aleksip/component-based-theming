@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [How to make theme images work in Pattern Lab and Drupal](https://www.fourkitchens.com/blog/development/make-theme-images-work-pattern-lab-drupal/)
+  - by Brian Lewis, 11 July 2018
 - [My Approach to PatternLab?](https://mark.ie/blog/web-development/my-approach-patternlab)
   - by Mark Conroy, 18 May 2018
 - [Adding {{ attributes }} to a Drupal PatternLab Theme](https://mark.ie/blog/web-development/adding-attributes-drupal-patternlab-theme)
