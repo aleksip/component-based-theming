@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [10 lessons we learned from our first Drupal 8 + Pattern Lab via Emulsify project](https://www.reallifedigital.com/blog/10-lessons-we-learned-our-first-drupal-8-pattern-lab-emulsify-project)
+  - by Darren Fisher, 13 September 2018
 - [Creating a Card Component in PatternLab and Mapping to Drupal the "right" way](https://mark.ie/blog/web-development/creating-card-component-patternlab-and-mapping-drupal-right-way)
   - by Mark Conroy, 8 September 2018
 - [How to make theme images work in Pattern Lab and Drupal](https://www.fourkitchens.com/blog/development/make-theme-images-work-pattern-lab-drupal/)
