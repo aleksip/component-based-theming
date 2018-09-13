@@ -192,3 +192,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Drupaltwig Slack channel](https://drupaltwig-slack.herokuapp.com/)
 - [Gitter Pattern Lab chat rooms](https://gitter.im/pattern-lab)
 - [Pattern Lab 101](https://patternlab-101.readthedocs.io/en/latest/)
+
+
+## Component-based theming with Drupal explained for clients
+
+- [What is pattern lab and why should I care about it?](https://www.reallifedigital.com/blog/what-pattern-lab-and-why-should-i-care-about-it)
+  - by Darren Fisher, 13 September 2018
