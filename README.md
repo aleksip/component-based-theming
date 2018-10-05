@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Responsive images in the Emulsify (PL) theme - The easy way](http://mosaicwebsites.com/blog/responsive-images-emulsify-pl-theme-easy-way)
+  - by Igor Lakic, 4 October 2018
 - [Creating Paragraphs Entities for Dynamic Content](https://a-fro.com/blog/creating-paragraphs-entities-dynamic-content)
   - by Aaron Froehlich, 26 September 2018
 - [Responsive Images with PatternLab and Drupal - the easy way](https://mark.ie/blog/web-development/responsive-images-patternlab-and-drupal-easy-way)
