@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Creating Paragraphs Entities for Dynamic Content](https://a-fro.com/blog/creating-paragraphs-entities-dynamic-content)
+  - by Aaron Froehlich, 26 September 2018
 - [Responsive Images with PatternLab and Drupal - the easy way](https://mark.ie/blog/web-development/responsive-images-patternlab-and-drupal-easy-way)
   - by Mark Conroy, 20 September 2018
 - [10 lessons we learned from our first Drupal 8 + Pattern Lab via Emulsify project](https://www.reallifedigital.com/blog/10-lessons-we-learned-our-first-drupal-8-pattern-lab-emulsify-project)
