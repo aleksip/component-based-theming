@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Can I Stop PatternLab Variants from Inheriting Data from their Parent Component](https://mark.ie/blog/web-development/can-i-stop-patternlab-variants-inheriting-data-their-parent-component)
+  - by Mark Conroy, 19 October 2018
 - [Responsive images in the Emulsify (PL) theme - The easy way](http://mosaicwebsites.com/blog/responsive-images-emulsify-pl-theme-easy-way)
   - by Igor Lakic, 4 October 2018
 - [Creating Paragraphs Entities for Dynamic Content](https://a-fro.com/blog/creating-paragraphs-entities-dynamic-content)
