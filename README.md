@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Creating Reusable Dynamic Content Components](http://a-fro.com/blog/creating-reusable-dynamic-content-components)
+  - by Aaron Froehlich, 6 November 2018
 - [Getting the most out of SVGs with Twig templates](https://mosaicwebsites.com/blog/getting-most-out-svgs-twig-templates)
   - by Igor Lakic, 22 October 2018
 - [Can I Stop PatternLab Variants from Inheriting Data from their Parent Component](https://mark.ie/blog/web-development/can-i-stop-patternlab-variants-inheriting-data-their-parent-component)
