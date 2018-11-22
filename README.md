@@ -39,6 +39,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Using join, include, and attributes in YAML (.yml) files with Data Transform Plugin for Pattern Lab](https://medium.com/@philw_/using-join-include-and-attributes-in-yaml-yml-files-with-data-transform-plugin-for-pattern-lab-e4559d158562)
+  - by Phil Wolstenholme, 19 November 2018
 - [Decoupling Pattern Lab from your theme a City of San Francisco project](https://www.chapterthree.com/blog/decoupling-pattern-lab-from-your-theme-a-city-of-san-francisco-project)
   - by Israel Morales, 6 November 2018
 - [Creating Reusable Dynamic Content Components](http://a-fro.com/blog/creating-reusable-dynamic-content-components)
