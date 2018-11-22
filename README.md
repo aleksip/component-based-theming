@@ -17,6 +17,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 ## Drupal modules
 
 - [Component Libraries](https://www.drupal.org/project/components)
+- [Multiple Definition Files](https://github.com/aleksip/multiple_definition_files)
 - [Paragraphs](https://www.drupal.org/project/paragraphs)
 - [UI Patterns](https://www.drupal.org/project/ui_patterns)
 - [UI Patterns From Layouts](https://www.drupal.org/project/ui_patterns_from_layouts)
