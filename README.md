@@ -123,6 +123,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- BADCamp 2018
+  - [Demystifying Pattern Libraries and Drupal 8](https://2018.badcamp.org/session/demystifying-pattern-libraries-and-drupal-8)
+    - by Zakiya Khabir
 - Drupal Developer Days Lisbon 2018
   - [Component-based Theming with Pattern Lab and Twig](https://lisbon2018.drupaldays.org/sessions/component-based-theming-pattern-lab-and-twig) ([Slides](http://Bit.ly/pl-twig-ddd-lisbon))
     - by Adam Juran
