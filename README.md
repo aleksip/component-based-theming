@@ -30,6 +30,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Pattern Lab Standard Edition for Twig](https://github.com/pattern-lab/edition-php-twig-standard)
 - [Pattern Lab Edition for PHPTemplate](https://github.com/aleksip/edition-php-tpl)
 - [Data Transform Plugin](https://github.com/aleksip/plugin-data-transform)
+- [Drupal Definitions Plugin](https://github.com/aleksip/plugin-drupal-definitions)
 - [Faker Plugin](https://github.com/pattern-lab/plugin-php-faker)
 - [Twig Namespaces Plugin](https://github.com/EvanLovely/plugin-twig-namespaces)
 
