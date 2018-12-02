@@ -129,6 +129,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
   - by Aleksi Peebles, 29 January 2016
 - [Atomic design, Pattern Lab and Drupal 8 theme development](https://www.aleksip.net/atomic-design-pattern-lab-and-drupal-8-theme-development)
   - by Aleksi Peebles, 29 January 2016
+- [Style-Guide-Driven Development: the new web development](https://www.previousnext.com.au/blog/style-guide-driven-development-new-web-development)
+  - by John Albin, 26 November 2014
 
 
 ## Presentations
