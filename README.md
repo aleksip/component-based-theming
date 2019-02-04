@@ -43,6 +43,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Handling Drupal attributes in components](https://mariohernandez.io/blog/drupal-attributes/)
+  - by Mario Hernandez, 10 January 2019
 - [Using Drupal’s definition files in component-based theming](https://www.aleksip.net/using-drupals-definition-files-in-component-based-theming)
   - by Aleksi Peebles, 21 November 2018
 - [Using join, include, and attributes in YAML (.yml) files with Data Transform Plugin for Pattern Lab](https://medium.com/@philw_/using-join-include-and-attributes-in-yaml-yml-files-with-data-transform-plugin-for-pattern-lab-e4559d158562)
