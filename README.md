@@ -139,6 +139,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- DrupalCampNJ 2019
+  - [Getting Atomic with Pattern Lab](https://www.drupalcampnj.org/sessions/getting-atomic-pattern-lab)
+    - by Aaron Froehlich
 - BADCamp 2018
   - [Demystifying Pattern Libraries and Drupal 8](https://2018.badcamp.org/session/demystifying-pattern-libraries-and-drupal-8)
     - by Zakiya Khabir
