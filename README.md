@@ -44,6 +44,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [PatternLab: Linking to Patterns](https://mark.ie/blog/web-development/patternlab-linking-to-patterns)
+  - by Mark Conroy, 7 March 2019
 - [Handling Drupal attributes in components](https://mariohernandez.io/blog/drupal-attributes/)
   - by Mario Hernandez, 10 January 2019
 - [Using Drupal’s definition files in component-based theming](https://www.aleksip.net/using-drupals-definition-files-in-component-based-theming)
