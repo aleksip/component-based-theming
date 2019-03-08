@@ -39,6 +39,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 - [add-attributes-twig-extension](https://github.com/drupal-pattern-lab/add-attributes-twig-extension)
 - [bem-twig-extension](https://github.com/drupal-pattern-lab/bem-twig-extension)
+- [Pattern Twig Extension](https://gitlab.com/gambry/pattern-twig-extension)
 
 
 ## Blog posts, articles, webinars
