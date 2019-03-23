@@ -142,6 +142,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- MidCamp 2019
+  - [An External Design System in Practice](https://www.midcamp.org/2019/topic-proposal/external-design-system-practice)
+    - By Brian Perry
 - DrupalCampNJ 2019
   - [Getting Atomic with Pattern Lab](https://www.drupalcampnj.org/sessions/getting-atomic-pattern-lab)
     - by Aaron Froehlich
