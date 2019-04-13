@@ -44,6 +44,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Before You Start a Pattern Lab Project with Drupal](https://www.chapterthree.com/blog/pattern-lab)
+  - by Zakiya Khabir, 3 April 2019
 - [PatternLab: Linking to Patterns](https://mark.ie/blog/web-development/patternlab-linking-to-patterns)
   - by Mark Conroy, 7 March 2019
 - [Handling Drupal attributes in components](https://mariohernandez.io/blog/drupal-attributes/)
