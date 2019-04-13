@@ -144,6 +144,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- DrupalCon Seattle 2019
+  - [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components)
+    - by Salem Ghoweri
 - MidCamp 2019
   - [An External Design System in Practice](https://www.midcamp.org/2019/topic-proposal/external-design-system-practice)
     - By Brian Perry
