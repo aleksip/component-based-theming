@@ -44,6 +44,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Frontend Architecture for Scalable Design Systems](https://medium.com/@salem_ghoweri/frontend-architecture-for-scalable-design-systems-72303bffde4b)
+  - by Salem Ghoweri, 15 April 2019
 - [Before You Start a Pattern Lab Project with Drupal](https://www.chapterthree.com/blog/pattern-lab)
   - by Zakiya Khabir, 3 April 2019
 - [PatternLab: Linking to Patterns](https://mark.ie/blog/web-development/patternlab-linking-to-patterns)
