@@ -146,6 +146,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Budapest Drupal User Group Meetup April 2019
+  - [How we build component-based Drupal themes](https://noti.st/thamas/u1vB20/how-we-build-component-based-drupal-themes)
+    - by Tamás Hajas
 - DrupalCon Seattle 2019
   - [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components)
     - by Salem Ghoweri
