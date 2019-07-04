@@ -242,6 +242,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Theme system improvements roadmap](https://www.drupal.org/node/2821399)
 - [Move Attribute classes under Drupal\\Component](https://www.drupal.org/node/2664570)
 - [Allow a component library to define asset libraries](https://www.drupal.org/node/2707849)
+- [Add Components Module to Drupal Core](https://www.drupal.org/project/ideas/issues/2875935)
 
 
 ## Other resources
