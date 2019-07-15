@@ -45,6 +45,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [A new approach for a new Pattern Lab](https://www.aleksip.net/a-new-approach-for-a-new-pattern-lab)
+  - by Aleksi Peebles, 12 July 2019
 - [Drupal UI Patterns: Component Driven Development in Drupal](https://jigarius.com/blog/drupal-ui-patterns)
   - by Jigar Mehta, 2 May 2019
 - [Frontend Architecture for Scalable Design Systems](https://medium.com/@salem_ghoweri/frontend-architecture-for-scalable-design-systems-72303bffde4b)
