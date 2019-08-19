@@ -151,6 +151,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Drupal North 2019
+  - [Drupal UI Patterns: Component Driven Development in Drupal](https://drupalnorth.org/en/session/drupal-ui-patterns-component-driven-development-drupal) ([YouTube](https://www.youtube.com/watch?v=eeoSZ4ZblQE))
+    - by Jigar Mehta
 - Budapest Drupal User Group Meetup April 2019
   - [How we build component-based Drupal themes](https://noti.st/thamas/u1vB20/how-we-build-component-based-drupal-themes)
     - by Tamás Hajas and Gábor Tompa
