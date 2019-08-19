@@ -151,6 +151,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Presentations
 
+- Drupal GovCon 2019
+  - [Integrating Pattern Lab with Drupal 8](https://www.drupalgovcon.org/2019/program/sessions/integrating-pattern-lab-drupal-8)
+    - by Roshana Devkota and Kevin McCloskey
 - Drupal North 2019
   - [Drupal UI Patterns: Component Driven Development in Drupal](https://drupalnorth.org/en/session/drupal-ui-patterns-component-driven-development-drupal) ([YouTube](https://www.youtube.com/watch?v=eeoSZ4ZblQE))
     - by Jigar Mehta
