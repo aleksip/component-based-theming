@@ -45,6 +45,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Component-based theming with Layout Builder](https://www.aleksip.net/component-based-theming-with-layout-builder)
+  - by Aleksi Peebles, 25 August 2019
 - [A new approach for a new Pattern Lab](https://www.aleksip.net/a-new-approach-for-a-new-pattern-lab)
   - by Aleksi Peebles, 12 July 2019
 - [Can I See the Menu, Please? Building and Integrating a Menu in Drupal](https://www.mediacurrent.com/blog/building-and-integrating-menu-drupal/)
