@@ -45,6 +45,8 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Blog posts, articles, webinars
 
+- [Writing View Mode Templates in PatternLab](https://mark.ie/blog/web-development/writing-view-mode-templates-in-patternlab)
+  - by Mark Conroy, 13 September 2019
 - [Component-based theming with Layout Builder](https://www.aleksip.net/component-based-theming-with-layout-builder)
   - by Aleksi Peebles, 25 August 2019
 - [A new approach for a new Pattern Lab](https://www.aleksip.net/a-new-approach-for-a-new-pattern-lab)
