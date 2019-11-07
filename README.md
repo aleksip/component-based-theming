@@ -80,6 +80,8 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Blog posts, articles, webinars
 
+- [Integrating Storybook with Drupal](https://medium.com/@askibinski/integrating-storybook-with-drupal-ddabfc6c2f9d)
+  - by Albert Skibinski, 1 November 2019
 - [Decoupling the front-end without APIs and JavaScript](https://www.aleksip.net/decoupling-the-front-end-without-apis-and-javascript)
   - by Aleksi Peebles, 20 October 2019
 - [Writing View Mode Templates in PatternLab](https://mark.ie/blog/web-development/writing-view-mode-templates-in-patternlab)
