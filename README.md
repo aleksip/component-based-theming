@@ -79,6 +79,13 @@ Please note that Pattern Lab PHP is no longer in active development.
 - [Storybook for Twig](https://github.com/markhuot/storybook-twig)
 
 
+## Twig implementations and renderers for JavaScript
+
+- [Twig.js](https://github.com/twigjs/twig.js)
+- [Twing](https://github.com/ericmorand/twing)
+- [twig-renderer](https://github.com/basaltinc/twig-renderer)
+
+
 ## Blog posts, articles, webinars
 
 - [Integrating Storybook with Drupal](https://medium.com/@askibinski/integrating-storybook-with-drupal-ddabfc6c2f9d)
