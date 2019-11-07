@@ -1,4 +1,4 @@
-# Resources for component-based theming with Drupal
+# Resources for component-based theming with Drupal and Twig
 
 You are welcome to submit a pull request if you know of a good resource not on this list.
 
