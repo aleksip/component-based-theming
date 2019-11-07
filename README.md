@@ -64,6 +64,13 @@ Please note that Pattern Lab PHP is no longer in active development.
 - [Pattern Twig Extension](https://gitlab.com/gambry/pattern-twig-extension)
 
 
+### Fractal
+
+- [Main website](https://fractal.build/)
+- [GitHub](https://github.com/frctl/fractal)
+- [Twig adapter](https://github.com/frctl/twig)
+
+
 ## Blog posts, articles, webinars
 
 - [Writing View Mode Templates in PatternLab](https://mark.ie/blog/web-development/writing-view-mode-templates-in-patternlab)
