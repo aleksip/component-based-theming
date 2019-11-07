@@ -27,17 +27,37 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Unified Twig Extensions](https://github.com/drupal-pattern-lab/unified-twig-extensions)
 
 
-## Pattern Lab and plugins
+## External tools
+
+### Pattern Lab
+
+- [Main website](https://patternlab.io/)
+
+
+#### Pattern Lab Node
+
+Pattern Lab Node has two Twig engines, a PHP based one and a JavaScript based one. The Twig edition uses the PHP engine.
+
+- [Pattern Lab Node](https://github.com/pattern-lab/patternlab-node)
+
+
+#### Pattern Lab PHP
+
+Please note that Pattern Lab PHP is no longer in active development.
 
 - [Pattern Lab Standard Edition for Twig](https://github.com/pattern-lab/edition-php-twig-standard)
 - [Pattern Lab Edition for PHPTemplate](https://github.com/aleksip/edition-php-tpl)
+
+
+##### Plugins
+
 - [Data Transform Plugin](https://github.com/aleksip/plugin-data-transform)
 - [Drupal Definitions Plugin](https://github.com/aleksip/plugin-drupal-definitions)
 - [Faker Plugin](https://github.com/pattern-lab/plugin-php-faker)
 - [Twig Namespaces Plugin](https://github.com/EvanLovely/plugin-twig-namespaces)
 
 
-## Twig extensions
+##### Pattern Lab specific Twig extensions
 
 - [add-attributes-twig-extension](https://github.com/drupal-pattern-lab/add-attributes-twig-extension)
 - [bem-twig-extension](https://github.com/drupal-pattern-lab/bem-twig-extension)
