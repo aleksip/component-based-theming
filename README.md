@@ -80,6 +80,8 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Blog posts, articles, webinars
 
+- [Decoupling the front-end without APIs and JavaScript](https://www.aleksip.net/decoupling-the-front-end-without-apis-and-javascript)
+  - by Aleksi Peebles, 20 October 2019
 - [Writing View Mode Templates in PatternLab](https://mark.ie/blog/web-development/writing-view-mode-templates-in-patternlab)
   - by Mark Conroy, 13 September 2019
 - [Component-based theming with Layout Builder](https://www.aleksip.net/component-based-theming-with-layout-builder)
