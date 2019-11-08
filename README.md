@@ -210,6 +210,9 @@ Please note that Pattern Lab PHP is no longer in active development.
 - Drupal GovCon 2019
   - [Integrating Pattern Lab with Drupal 8](https://www.drupalgovcon.org/2019/program/sessions/integrating-pattern-lab-drupal-8)
     - by Roshana Devkota and Kevin McCloskey
+- Drupal Camp Asheville 2019
+  - [Drag n' Drop/Mix n' Match: Patternkit + Layout Builder - The Next Gen of Drupal Page Building](https://www.drupalasheville.com/2019/session/drag-n-dropmix-n-match-patternkit-layout-builder-next-gen-drupal-page-building) ([YouTube](https://www.youtube.com/watch?v=8Ms4KIV4GP4))
+    - by Derek Reese
 - Drupal North 2019
   - [Drupal UI Patterns: Component Driven Development in Drupal](https://drupalnorth.org/en/session/drupal-ui-patterns-component-driven-development-drupal) ([YouTube](https://www.youtube.com/watch?v=eeoSZ4ZblQE))
     - by Jigar Mehta
