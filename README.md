@@ -216,6 +216,9 @@ Please note that Pattern Lab PHP is no longer in active development.
 - Drupal North 2019
   - [Drupal UI Patterns: Component Driven Development in Drupal](https://drupalnorth.org/en/session/drupal-ui-patterns-component-driven-development-drupal) ([YouTube](https://www.youtube.com/watch?v=eeoSZ4ZblQE))
     - by Jigar Mehta
+- Drupaldelphia 2019
+  - [Twig in Fractal in Drupal: Decoupling UI Components from Drupal Data Structures](https://www.drupaldelphia.org/session/twig-fractal-drupal-decoupling-ui-components-drupal-data-structures) ([YouTube](https://www.youtube.com/watch?v=Bvfymb0HkHg))
+    - by Chris Arasin
 - Budapest Drupal User Group Meetup April 2019
   - [How we build component-based Drupal themes](https://noti.st/thamas/u1vB20/how-we-build-component-based-drupal-themes)
     - by Tamás Hajas and Gábor Tompa
