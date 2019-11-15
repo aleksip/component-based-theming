@@ -267,6 +267,8 @@ Please note that Pattern Lab PHP is no longer in active development.
 - DrupalCon Vienna 2017:
   - [Introducing the UI Patterns module: use atomic UI components everywhere in Drupal 8](https://www.youtube.com/watch?v=6BdyXYkY3Wg)
     - by Antonio De Marco
+  - [Decouple your Twig from PHP and make Frontenders happy!](https://events.drupal.org/vienna2017/sessions/decouple-your-twig-php-and-make-frontenders-happy)
+    - by Anton Staroverov and Tassilo Gröper
 - DrupalCon Baltimore 2017:
   - [Atomic Design in Drupal 8: Isolating frontend workflow with Pattern Lab!](https://events.drupal.org/baltimore2017/sessions/atomic-design-drupal-8-isolating-your-frontend-workflow-pattern-lab)
     - by Anthony Simone
