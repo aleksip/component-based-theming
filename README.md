@@ -16,6 +16,11 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Zen](https://www.drupal.org/project/zen)
 
 
+## Full component-based solutions for Drupal
+
+- [Compony](https://www.compony.io/) ([Theme skeleton](https://gitlab.com/Compony/Compony), [Gulp setup](https://gitlab.com/Compony/compony-theme-gulp), [Components](https://www.compony.io/components))
+
+
 ## Drupal modules
 
 - [Component Libraries](https://www.drupal.org/project/components)
