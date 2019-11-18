@@ -96,12 +96,22 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 - [Integrating Storybook with Drupal](https://medium.com/@askibinski/integrating-storybook-with-drupal-ddabfc6c2f9d)
   - by Albert Skibinski, 1 November 2019
+- [Compony and the climate crisis](https://www.compony.io/blog/compony-and-climate-crisis)
+  - by Compony blog / Mathieu Spillebeen, 24 October 2019
 - [Decoupling the front-end without APIs and JavaScript](https://www.aleksip.net/decoupling-the-front-end-without-apis-and-javascript)
   - by Aleksi Peebles, 20 October 2019
+- [Cross Component Fragility](https://www.compony.io/blog/cross-component-fragility)
+  - by Compony blog / Mathieu Spillebeen, 17 October 2019
 - [Writing View Mode Templates in PatternLab](https://mark.ie/blog/web-development/writing-view-mode-templates-in-patternlab)
   - by Mark Conroy, 13 September 2019
+- [Getting started](https://www.compony.io/blog/getting-started)
+  - by Compony blog / Mathieu Spillebeen, 12 September 2019
 - [Component-based theming with Layout Builder](https://www.aleksip.net/component-based-theming-with-layout-builder)
   - by Aleksi Peebles, 25 August 2019
+- [How to update your downloaded components?](https://www.compony.io/blog/how-update-your-downloaded-components)
+  - by Compony blog / Mathieu Spillebeen, 26 July 2019
+- [How to set up multiple Compony themes in your project](https://www.compony.io/blog/how-set-multiple-compony-themes-your-project)
+  - by Compony blog / Mathieu Spillebeen, 19 July 2019
 - [A new approach for a new Pattern Lab](https://www.aleksip.net/a-new-approach-for-a-new-pattern-lab)
   - by Aleksi Peebles, 12 July 2019
 - [Can I See the Menu, Please? Building and Integrating a Menu in Drupal](https://www.mediacurrent.com/blog/building-and-integrating-menu-drupal/)
@@ -110,6 +120,12 @@ Please note that Pattern Lab PHP is no longer in active development.
   - by  Jamie Hollern, 6 May 2019
 - [Drupal UI Patterns: Component Driven Development in Drupal](https://jigarius.com/blog/drupal-ui-patterns)
   - by Jigar Mehta, 2 May 2019
+- [Secure components](https://www.compony.io/blog/secure-components)
+  - by Compony blog / Mathieu Spillebeen, 23 April 2019
+- [What is Compony?](https://www.compony.io/blog/what-compony)
+  - by Compony blog / Mathieu Spillebeen, 19 April 2019
+- [Create a Compony-component](https://www.compony.io/blog/create-compony-component)
+  - by Compony blog / Mathieu Spillebeen, 18 April 2019
 - [Frontend Architecture for Scalable Design Systems](https://medium.com/@salem_ghoweri/frontend-architecture-for-scalable-design-systems-72303bffde4b)
   - by Salem Ghoweri, 15 April 2019
 - [Before You Start a Pattern Lab Project with Drupal](https://www.chapterthree.com/blog/pattern-lab)
