@@ -100,6 +100,8 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Blog posts, articles, webinars
 
+- [Drupal themes and component libraries](https://www.aleksip.net/drupal-themes-and-component-libraries)
+  - by Aleksi Peebles, 17 November 2019
 - [Integrating Storybook with Drupal](https://medium.com/@askibinski/integrating-storybook-with-drupal-ddabfc6c2f9d)
   - by Albert Skibinski, 1 November 2019
 - [Compony and the climate crisis](https://www.compony.io/blog/compony-and-climate-crisis)
