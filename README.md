@@ -108,6 +108,8 @@ Please note that Pattern Lab PHP is no longer in active development.
   - by Aleksi Peebles, 20 October 2019
 - [Cross Component Fragility](https://www.compony.io/blog/cross-component-fragility)
   - by Compony blog / Mathieu Spillebeen, 17 October 2019
+- [Simplifying Drupal frontend with Single File Components](https://mortenson.coffee/blog/drupal/2019/10/06/simplifying-drupal-frontend-single-file-components.html)
+  - by Samuel Mortenson, 6 October 2019
 - [Writing View Mode Templates in PatternLab](https://mark.ie/blog/web-development/writing-view-mode-templates-in-patternlab)
   - by Mark Conroy, 13 September 2019
 - [Getting started](https://www.compony.io/blog/getting-started)
