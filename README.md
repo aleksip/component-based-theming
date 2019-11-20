@@ -169,6 +169,8 @@ Please note that Pattern Lab PHP is no longer in active development.
   - by Mark Conroy, 18 May 2018
 - [Adding {{ attributes }} to a Drupal PatternLab Theme](https://mark.ie/blog/web-development/adding-attributes-drupal-patternlab-theme)
   - by Mark Conroy, 16 April 2018
+- [Introducing Twig Components](https://mortenson.coffee/blog/drupal/2018/04/09/introducing-twig-components.html)
+  - by Samuel Mortenson, 9 April 2018
 - [Achieving Clarity in Component-based Best Practices](http://nerdstein.net/blog/achieving-clarity-component-based-best-practices)
   - by Adam Bergstein, 2 April 2018
 - [Componentizing Drupal Front End using Pattern Lab](https://valuebound.com/resources/blog/componentizing-drupal-front-end-using-pattern-lab)
