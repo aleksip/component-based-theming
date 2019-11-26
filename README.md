@@ -348,11 +348,12 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Related Drupal.org issues
 
-- [Unify & simplify render & theme system: component-based rendering (enables pattern library, style guides, interface previews, client-side re-rendering)](https://www.drupal.org/node/2702061)
-- [Theme system improvements roadmap](https://www.drupal.org/node/2821399)
-- [Move Attribute classes under Drupal\\Component](https://www.drupal.org/node/2664570)
-- [Allow a component library to define asset libraries](https://www.drupal.org/node/2707849)
+- [Decouple and componentize our Twig implementation](https://www.drupal.org/project/drupal/issues/3096483)
 - [Add Components Module to Drupal Core](https://www.drupal.org/project/ideas/issues/2875935)
+- [Theme system improvements roadmap](https://www.drupal.org/node/2821399)
+- [Allow a component library to define asset libraries](https://www.drupal.org/node/2707849)
+- [Unify & simplify render & theme system: component-based rendering (enables pattern library, style guides, interface previews, client-side re-rendering)](https://www.drupal.org/node/2702061)
+- [Move Attribute classes under Drupal\\Component](https://www.drupal.org/node/2664570)
 
 
 ## Other resources
