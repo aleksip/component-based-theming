@@ -25,6 +25,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 - [Component Libraries](https://www.drupal.org/project/components)
 - [Full Reset](https://www.drupal.org/project/full_reset)
+- [Layouts from Pattern Lab](https://www.drupal.org/project/layouts_pattern_lab)
 - [Multiple Definition Files](https://www.drupal.org/project/multiple_definition_files)
 - [Paragraphs](https://www.drupal.org/project/paragraphs)
 - [PatternKit](https://www.drupal.org/project/patternkit)
