@@ -241,6 +241,9 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Presentations
 
+- Florida DrupalCamp 2020
+  - [An overview of front-end component integration methods in Drupal 8](https://www.fldrupal.camp/sessions/design-theming-front-end-development/overview-front-end-component-integration-methods) ([YouTube](https://www.youtube.com/watch?v=mQpOIx9ZOpw))
+    - by Brian Perry
 - DrupalCamp Atlanta 2019
   - [The future of Drupal theming](https://www.drupalcampatlanta.com/2019/sessions/future-drupal-theming) ([Slides](https://slides.com/mathieuspillebeen/deck-6-7-11#/))
     - by Mathieu Spillebeen
