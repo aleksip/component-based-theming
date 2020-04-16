@@ -10,6 +10,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Emulsify](https://www.drupal.org/project/emulsify) ([GitHub](https://github.com/fourkitchens/emulsify))
 - [Gesso](https://www.drupal.org/project/gesso) ([GitHub](https://github.com/forumone/gesso))
 - [Particle](https://github.com/phase2/particle)
+- [Radix](https://www.drupal.org/project/radix)
 - [Shila theme](https://github.com/aleksip/shila-drupal-theme)
 - [Theme Generator](https://github.com/mediacurrent/theme_generator_8)
 - [Union](https://github.com/ilrWebServices/union)
