@@ -14,7 +14,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Shila theme](https://github.com/aleksip/shila-drupal-theme)
 - [Theme Generator](https://github.com/mediacurrent/theme_generator_8)
 - [Union](https://github.com/ilrWebServices/union)
-- [Wingsuite](https://wingsuit-designsystem.github.io/)
+- [Wingsuit](https://wingsuit-designsystem.github.io/)
 - [Zen](https://www.drupal.org/project/zen)
 
 
@@ -104,8 +104,6 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Blog posts, articles, webinars
 
-- [Using a single Frontend Design System for WordPress and Drupal with Emulsify](https://cmsphilly.org/talks/using-single-frontend-design-system-wordpress-and-drupal-emulsify), by Dean Oest, 01 May 2020
-- [Wait, We Can Re-use this? Design Systems and Component Libraries for Fun and Profit](https://cmsphilly.org/talks/wait-we-can-re-use-design-systems-and-component-libraries-fun-and-profit) - by Aaron Couch, 01 May 2020
 - [Building a Drupal 8 Theme with Mediacurrent's Theme Generator](https://mariohernandez.io/blog/mediacurrent-theme-generator)
   - by Mario Hernandez, 30 March 2020
 - [Drupal themes and component libraries](https://www.aleksip.net/drupal-themes-and-component-libraries)
@@ -248,6 +246,11 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Presentations
 
+- CMS Philly 2020
+  - [Using a single Frontend Design System for WordPress and Drupal with Emulsify](https://cmsphilly.org/talks/using-single-frontend-design-system-wordpress-and-drupal-emulsify)
+    - by Dean Oest
+  - [Wait, We Can Re-use this? Design Systems and Component Libraries for Fun and Profit](https://cmsphilly.org/talks/wait-we-can-re-use-design-systems-and-component-libraries-fun-and-profit)
+    - by Aaron Couch
 - Florida DrupalCamp 2020
   - [An overview of front-end component integration methods in Drupal 8](https://www.fldrupal.camp/sessions/design-theming-front-end-development/overview-front-end-component-integration-methods) ([Slides](https://noti.st/brianperry/qKHUXG/an-overview-of-drupal-8-front-end-component-integration-methods), [YouTube](https://www.youtube.com/watch?v=mQpOIx9ZOpw))
     - by Brian Perry
