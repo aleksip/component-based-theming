@@ -38,9 +38,9 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Unified Twig Extensions](https://github.com/drupal-pattern-lab/unified-twig-extensions)
 
 
-## Twig in JavaScript
+## Projects using Twig with JavaScript
 
-- [Twig Components](https://www.drupal.org/project/twig_components) ([Drupal module](https://www.drupal.org/project/twig_components))
+- [Twig Components](https://github.com/mortenson/twig-components) ([Drupal module](https://www.drupal.org/project/twig_components))
 
 
 ## External tools
