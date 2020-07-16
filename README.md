@@ -25,6 +25,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 
 ## Drupal modules
 
+- [Component blocks](https://www.drupal.org/project/component_blocks)
 - [Component Libraries](https://www.drupal.org/project/components)
 - [Full Reset](https://www.drupal.org/project/full_reset)
 - [Layouts from Pattern Lab](https://www.drupal.org/project/layouts_pattern_lab)
