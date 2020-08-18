@@ -105,6 +105,8 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Blog posts, articles, webinars
 
+- [Pattern Lab and Drupal 9: Prepare your theme for Twig 2](https://www.1xinternet.de/en/blog/patternlab-drupal9)
+  - by Adam Juran, 22 July 2020
 - [How to integrate your pattern library with Drupal's layout builder using Component Blocks module](https://www.previousnext.com.au/blog/how-integrate-your-pattern-library-drupals-layout-builder-using-component-blocks-module)
   - by Lee Rowlands, 16 July 2020
 - [Building a Drupal 8 Theme with Mediacurrent's Theme Generator](https://mariohernandez.io/blog/mediacurrent-theme-generator)
