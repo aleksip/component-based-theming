@@ -167,6 +167,8 @@ Please note that Pattern Lab PHP is no longer in active development.
   - by Israel Morales, 6 November 2018
 - [Creating Reusable Dynamic Content Components](http://a-fro.com/blog/creating-reusable-dynamic-content-components)
   - by Aaron Froehlich, 6 November 2018
+- [Drupal 8 Pattern Lab for Component-Based Theming](https://anyforsoft.com/blog/drupal-8-pattern-lab-component-based-theming/)
+  - by AnyforSoft, 5 November 2018
 - [Getting the most out of SVGs with Twig templates](https://mosaicwebsites.com/blog/getting-most-out-svgs-twig-templates)
   - by Igor Lakic, 22 October 2018
 - [Can I Stop PatternLab Variants from Inheriting Data from their Parent Component](https://mark.ie/blog/web-development/can-i-stop-patternlab-variants-inheriting-data-their-parent-component)
