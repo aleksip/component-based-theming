@@ -259,6 +259,9 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Presentations and videos
 
+- SF Drupal Users Group, 10 September 2020
+  - [Best practices for Integrating components with Drupal](https://www.youtube.com/watch?v=PMST_gl4C4A)
+    - by Mario Hernandez
 - [Drupal Single File Components](https://www.youtube.com/watch?v=6ca2o4esi4I)
   - by Samuel Mortenson, 24 July 2020
 - CMS Philly 2020
