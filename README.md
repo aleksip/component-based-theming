@@ -105,7 +105,7 @@ Please note that Pattern Lab PHP is no longer in active development.
 - [twig-renderer](https://github.com/basaltinc/twig-renderer)
 
 
-## Blog posts, articles, webinars
+## Blog posts and articles
 
 - [Pattern Lab and Drupal 9: Prepare your theme for Twig 2](https://www.1xinternet.de/en/blog/patternlab-drupal9)
   - by Adam Juran, 22 July 2020
@@ -257,8 +257,10 @@ Please note that Pattern Lab PHP is no longer in active development.
   - by John Albin, 26 November 2014
 
 
-## Presentations
+## Presentations and videos
 
+- [Drupal Single File Components](https://www.youtube.com/watch?v=6ca2o4esi4I)
+  - by Samuel Mortenson, 24 July 2020
 - CMS Philly 2020
   - [Using a single Frontend Design System for WordPress and Drupal with Emulsify](https://cmsphilly.org/talks/using-single-frontend-design-system-wordpress-and-drupal-emulsify)
     - by Dean Oest
