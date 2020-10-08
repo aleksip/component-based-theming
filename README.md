@@ -8,6 +8,7 @@ You are welcome to submit a pull request if you know of a good resource not on t
 - [Bear Skin](https://www.drupal.org/project/bear_skin) ([GitHub](https://github.com/zivtech/bear_skin))
 - [Bolt](https://boltdesignsystem.com/) ([GitHub](https://github.com/bolt-design-system/bolt))
 - [Emulsify](https://www.drupal.org/project/emulsify) ([GitHub](https://github.com/fourkitchens/emulsify))
+- [Flexi Pattern Lab](https://www.drupal.org/project/flexi_pattern_lab)
 - [Gesso](https://www.drupal.org/project/gesso) ([GitHub](https://github.com/forumone/gesso))
 - [Particle](https://github.com/phase2/particle)
 - [Radix](https://www.drupal.org/project/radix)
