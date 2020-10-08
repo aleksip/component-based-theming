@@ -111,6 +111,8 @@ Please note that Pattern Lab PHP is no longer in active development.
   - by Lee Rowlands, 16 July 2020
 - [Building a Drupal 8 Theme with Mediacurrent's Theme Generator](https://mariohernandez.io/blog/mediacurrent-theme-generator)
   - by Mario Hernandez, 30 March 2020
+- [Building my site with Tome and Single File Components](https://mortenson.coffee/blog/building-my-site-tome-and-single-file-components/)
+  - by Samuel Mortenson, 2 February 2020
 - [Drupal themes and component libraries](https://www.aleksip.net/drupal-themes-and-component-libraries)
   - by Aleksi Peebles, 17 November 2019
 - [Integrating Storybook with Drupal](https://medium.com/@askibinski/integrating-storybook-with-drupal-ddabfc6c2f9d)
