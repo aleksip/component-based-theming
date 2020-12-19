@@ -260,6 +260,9 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Presentations and videos
 
+- BADCamp 2020
+  - [After 5 years, my dream Drupal component workflow is finally here](https://2020.badcamp.org/session/after-5-years-my-dream-drupal-component-workflow-finally-here)
+    - by Brian Perry
 - Drupal GovCon 2020
   - [Component-Driven Theming with Storybook](https://www.drupalgovcon.org/2020/program/sessions/component-driven-theming-storybook)
     - by Aaron Couch, Evan Willhite and Brian Lewis
