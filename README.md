@@ -108,6 +108,8 @@ Please note that Pattern Lab PHP is no longer in active development.
 
 ## Blog posts and articles
 
+- [Demystifying components integration with Drupal](https://mariohernandez.io/blog/demystifying-components-integration-with-drupal)
+  - by Mario Hernandez, 17 June 2021
 - [Pattern Lab and Drupal 9: Prepare your theme for Twig 2](https://www.1xinternet.de/en/blog/patternlab-drupal9)
   - by Adam Juran, 22 July 2020
 - [How to integrate your pattern library with Drupal's layout builder using Component Blocks module](https://www.previousnext.com.au/blog/how-integrate-your-pattern-library-drupals-layout-builder-using-component-blocks-module)
